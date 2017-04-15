@@ -1,9 +1,11 @@
 #!/bin/bash
 
+set -o pipefail
+
 REPONAME="$(git config --get remote.origin.url)"
 REPONAME="${REPONAME##*/}"
 REPONAME="${REPONAME%.git}"
 
 git log \
     --no-walk --abbrev=9 --date='format:%Y-%m-%d %T' \
-    --pretty="%ad %h ${REPONAME} / %s" "$@"
+    --pretty="%ad %h ${REPONAME} / %s" "$@" | sort
