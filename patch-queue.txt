@@ -5,3 +5,4 @@
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
 2017-04-13 18:45:56 c25067fc1 diffpy.structure / TST: switch to automated TestCase discovery.
 2017-04-13 18:48:32 b37403511 diffpy.structure / TST: support test selection in the debug script.
+2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
