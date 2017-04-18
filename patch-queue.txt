@@ -1,12 +1,11 @@
-Hold until the move of 'diffpy' under src/.
-
-2017-03-09 12:40:41 dad0d54df diffpy.srfit / Exclude Finder and git files from source tarball.
-2017-04-13 18:45:56 c25067fc1 diffpy.structure / TST: switch to automated TestCase discovery.
-2017-04-13 18:48:32 b37403511 diffpy.structure / TST: support test selection in the debug script.
-
-Active
+DONE
 
 2017-03-09 14:54:56 a86440df8 diffpy.srfit / Remove excessive indentation of setup_args.
 2017-03-09 18:22:04 c3689a1a8 diffpy.srfit / MYPYTHON_VERSION is relevant only for conda tests.
 2017-03-09 18:23:21 b9e57e841 diffpy.srfit / Adjust for conda-build 2.1.6.
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
+2017-03-09 12:40:41 dad0d54df diffpy.srfit / Exclude Finder and git files from source tarball.
+2017-04-13 18:45:56 c25067fc1 diffpy.structure / TST: switch to automated TestCase discovery.
+2017-04-13 18:48:32 b37403511 diffpy.structure / TST: support test selection in the debug script.
+
+TODO
