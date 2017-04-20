@@ -3,8 +3,14 @@
 2017-03-09 18:22:04 c3689a1a8 diffpy.srfit / MYPYTHON_VERSION is relevant only for conda tests.
 2017-03-09 18:23:21 b9e57e841 diffpy.srfit / Adjust for conda-build 2.1.6.
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
+2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
+2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
+
+-- REPLACE IF NOT APPLIED ----------------------------------------------------
 2017-04-13 18:45:56 c25067fc1 diffpy.structure / TST: switch to automated TestCase discovery.
 2017-04-13 18:48:32 b37403511 diffpy.structure / TST: support test selection in the debug script.
-2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
 2017-04-17 10:14:23 ed1c2e5b3 diffpy.srfit / TST: Use `top_level_dir` in test discovery.
-2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
+-- WITH ----------------------------------------------------------------------
+2017-04-20 15:14:56 99e2d4c56 diffpy.srfit / TST: use automated TestCase discovery.
+2017-04-20 15:16:16 2f04db5ea diffpy.srfit / TST: support test selection in the debug script.
+------------------------------------------------------------------------------
