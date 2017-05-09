@@ -17,11 +17,7 @@ DONE
 2017-04-20 15:16:16 2f04db5ea diffpy.srfit / TST: support test selection in the debug script.
 ------------------------------------------------------------------------------
 
--- SQUASH --------------------------------------------------------------------
-2017-04-25 10:38:55 8a874c571 pyobjcryst / Update the makesdist script for Python 3.
-2017-05-01 11:53:36 175c04192 pyobjcryst / DEV: adopt PY3/PY2 compatible user messages.
-------------------------------------------------------------------------------
-
 2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
+2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
 
 TODO
