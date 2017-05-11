@@ -4,3 +4,5 @@ DONE
 2017-04-05 10:55:24 e95bda7d9 libobjcryst / BUG: Correct LIBOBJCRYST_VERSION macro in scons.
 
 TODO
+
+2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
