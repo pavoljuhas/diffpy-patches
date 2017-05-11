@@ -1,2 +1,3 @@
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
 2017-04-05 10:55:24 e95bda7d9 libobjcryst / BUG: Correct LIBOBJCRYST_VERSION macro in scons.
+2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
