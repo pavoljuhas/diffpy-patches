@@ -21,3 +21,6 @@ DONE
 ------------------------------------------------------------------------------
 
 TODO
+
+2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
+2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
