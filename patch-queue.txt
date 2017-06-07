@@ -1,3 +1,5 @@
+DONE
+
 2017-03-09 12:40:41 dad0d54df diffpy.srfit / Exclude Finder and git files from source tarball.
 2017-03-09 14:54:56 a86440df8 diffpy.srfit / Remove excessive indentation of setup_args.
 2017-03-09 18:22:04 c3689a1a8 diffpy.srfit / MYPYTHON_VERSION is relevant only for conda tests.
@@ -17,3 +19,5 @@
 
 2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
 2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
+
+TODO
