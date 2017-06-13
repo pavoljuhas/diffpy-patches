@@ -10,5 +10,8 @@ DONE
 2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
 2017-04-17 10:14:23 ed1c2e5b3 diffpy.srfit / TST: Use `top_level_dir` in test discovery.
 2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
+2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
 
 TODO
+
+2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
