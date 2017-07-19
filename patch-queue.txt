@@ -21,7 +21,6 @@ DONE
 2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
 2017-06-21 18:24:12 2694c2746 diffpy.structure / Declare namespace package with pkgutil module.
 2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
+2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
 
 TODO
-
-2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
