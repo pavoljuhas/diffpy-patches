@@ -23,3 +23,6 @@ DONE
 2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
 
 TODO
+
+2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
+2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
