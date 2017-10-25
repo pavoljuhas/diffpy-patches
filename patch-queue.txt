@@ -24,3 +24,7 @@ DONE
 2017-09-01 16:28:20 da17abe47 diffpy.srfit / DEV: use system Python on travis trusty.
 
 TODO
+
+-- AMENDS da17abe47 ----------------------------------------------------------
+2017-09-16 13:28:31 4c62d0d8d diffpy.srreal / DEV: fix path to system Python on travis trusty.
+------------------------------------------------------------------------------
