@@ -1,30 +1,42 @@
+DONE
+
 2017-03-09 12:40:41 dad0d54df diffpy.srfit / Exclude Finder and git files from source tarball.
 2017-03-09 14:54:56 a86440df8 diffpy.srfit / Remove excessive indentation of setup_args.
+
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-03-09 18:22:04 c3689a1a8 diffpy.srfit / MYPYTHON_VERSION is relevant only for conda tests.
 2017-03-09 18:23:21 b9e57e841 diffpy.srfit / Adjust for conda-build 2.1.6.
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
--- SKIP ----------------------------------------------------------------------
-2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
 ------------------------------------------------------------------------------
+
+2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
 2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
 
--- REPLACE IF NOT APPLIED ----------------------------------------------------
-2017-04-13 18:45:56 c25067fc1 diffpy.structure / TST: switch to automated TestCase discovery.
-2017-04-13 18:48:32 b37403511 diffpy.structure / TST: support test selection in the debug script.
-2017-04-17 10:14:23 ed1c2e5b3 diffpy.srfit / TST: Use `top_level_dir` in test discovery.
--- WITH ----------------------------------------------------------------------
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-04-20 15:14:56 99e2d4c56 diffpy.srfit / TST: use automated TestCase discovery.
-2017-04-20 15:16:16 2f04db5ea diffpy.srfit / TST: support test selection in the debug script.
 ------------------------------------------------------------------------------
 
+2017-04-20 15:16:16 2f04db5ea diffpy.srfit / TST: support test selection in the debug script.
+
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-05-03 12:36:22 2bde245fb pyobjcryst / DEV: use standard Miniconda activation in travis.
 2017-05-09 16:44:28 0a66a84ca diffpy.pdfgui / DEV: make `makesdist` script Python 3 compatible.
+------------------------------------------------------------------------------
+
 2017-06-21 18:24:12 2694c2746 diffpy.structure / Declare namespace package with pkgutil module.
+
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
 2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
+------------------------------------------------------------------------------
+
 2017-08-31 18:40:49 5d29496b5 diffpy.srfit / REL: exclude setup.cfg again and for real.
+
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-09-01 16:28:20 da17abe47 diffpy.srfit / DEV: use system Python on travis trusty.
 -- AMENDS da17abe47 ----------------------------------------------------------
 2017-09-16 13:28:31 4c62d0d8d diffpy.srreal / DEV: fix path to system Python on travis trusty.
 ------------------------------------------------------------------------------
+
+TODO
