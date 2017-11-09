@@ -5,7 +5,9 @@ DONE
 2017-03-09 18:22:04 c3689a1a8 diffpy.srfit / MYPYTHON_VERSION is relevant only for conda tests.
 2017-03-09 18:23:21 b9e57e841 diffpy.srfit / Adjust for conda-build 2.1.6.
 2017-03-10 11:35:41 b835849 diffpy.srfit / travis - fix download URL of Miniconda.
+-- SKIP ----------------------------------------------------------------------
 2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
+------------------------------------------------------------------------------
 2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
 
 -- REPLACE IF NOT APPLIED ----------------------------------------------------
@@ -25,3 +27,9 @@ DONE
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
 
 TODO
+
+2017-08-31 18:40:49 5d29496b5 diffpy.srfit / REL: exclude setup.cfg again and for real.
+2017-09-01 16:28:20 da17abe47 diffpy.srfit / DEV: use system Python on travis trusty.
+-- AMENDS da17abe47 ----------------------------------------------------------
+2017-09-16 13:28:31 4c62d0d8d diffpy.srreal / DEV: fix path to system Python on travis trusty.
+------------------------------------------------------------------------------
