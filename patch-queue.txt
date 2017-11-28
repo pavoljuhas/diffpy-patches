@@ -37,4 +37,9 @@ DONE
 2017-11-09 14:43:26 1da798857 diffpy.pdfgui / DEV: use system Python on travis trusty.
 ------------------------------------------------------------------------------
 
+-- ADJUST DEPRECATED VERSION -------------------------------------------------
+2017-11-28 10:28:34 9c2f571fc diffpy.srfit / API: replace `__gitsha__` with `__git_commit__`.
+------------------------------------------------------------------------------
+2017-11-28 10:45:42 e40f3eac0 diffpy.srfit / MAINT: avoid import of configparser in version.py.
+
 TODO
