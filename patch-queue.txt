@@ -28,9 +28,6 @@ DONE
 2017-06-21 18:24:12 2694c2746 diffpy.structure / Declare namespace package with pkgutil module.
 2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
 2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
-
-TODO
-
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
 2017-08-31 18:40:49 5d29496b5 diffpy.srfit / REL: exclude setup.cfg again and for real.
 
@@ -47,3 +44,5 @@ TODO
 2017-11-28 10:45:42 1a94223e7 diffpy.pdfgui / MAINT: avoid import of configparser in version.py.
 2017-12-06 12:58:26 5b4b43616 diffpy.pdfgui / TST: exclude non-runnable code from coverage.
 2017-12-08 09:36:35 0c6a9f6bf diffpy.srfit / DEV: travis - force gcc installation in homebrew.
+
+TODO
