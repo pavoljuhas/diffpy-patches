@@ -1,4 +1,5 @@
-Apply this to diffpy.Structure and then append to the patch-queue.
+Apply this to diffpy.utils and then append to the patch-queue.
 
 
 2018-01-09 02:03:51 d87949698 diffpy.pdfgetx / REL: exclude spurious sources from setuptools_scm
+2018-01-10 12:43:38 1f3203664 diffpy.pdfgetx / REL: exclude gitarchive.cfg from package files
