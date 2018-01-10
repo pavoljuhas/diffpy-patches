@@ -1,0 +1,4 @@
+Apply this to diffpy.Structure and then append to the patch-queue.
+
+
+2018-01-09 02:03:51 d87949698 diffpy.pdfgetx / REL: exclude spurious sources from setuptools_scm
