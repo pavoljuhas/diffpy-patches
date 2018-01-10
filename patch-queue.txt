@@ -41,3 +41,6 @@ DONE
 2017-12-08 09:36:35 0c6a9f6bf diffpy.srfit / DEV: travis - force gcc installation in homebrew.
 
 TODO
+
+# needs to be reworded
+2018-01-09 15:51:16 3cae9e269 diffpy.pdfgetx / ENH: fix version import in a pristine source tree
