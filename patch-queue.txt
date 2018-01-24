@@ -33,6 +33,7 @@ DONE
 -- WITH ----------------------------------------------------------------------
 2017-11-09 14:43:26 1da798857 diffpy.pdfgui / DEV: use system Python on travis trusty.
 ------------------------------------------------------------------------------
+
 -- ADJUST DEPRECATED VERSION -------------------------------------------------
 2017-11-28 10:28:34 9c2f571fc diffpy.srfit / API: replace `__gitsha__` with `__git_commit__`.
 ------------------------------------------------------------------------------
@@ -42,5 +43,6 @@ DONE
 
 TODO
 
-# needs to be reworded
 2018-01-09 15:51:16 3cae9e269 diffpy.pdfgetx / ENH: fix version import in a pristine source tree
+2018-01-11 17:13:59 653ff6864 diffpy.structure / REL: exclude spurious sources from setuptools_scm
+2018-01-11 17:27:55 38f6cd392 diffpy.structure / REL: exclude gitarchive.cfg from package files
