@@ -41,3 +41,4 @@
 2018-01-11 17:13:59 653ff6864 diffpy.structure / REL: exclude spurious sources from setuptools_scm
 2018-01-11 17:27:55 38f6cd392 diffpy.structure / REL: exclude gitarchive.cfg from package files
 2018-02-02 16:16:54 commit-date.patch patch / REL: use git commit date for version metadata
+2018-02-08 16:31:00 238299dcf pyobjcryst / TST: exclude skipped unit tests from coverage
