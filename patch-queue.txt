@@ -4,3 +4,5 @@
 2017-07-09 01:43:48 f00671b59 libobjcryst / DEV: use `conda render` to get full package name.
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
 2018-02-21 14:11:22 9a2038537 libdiffpy / REL: use git commit date for version metadata
+2018-02-21 14:23:29 56ee643e5 libdiffpy / REL: check actual HEAD instead of TRAVIS_COMMIT
+2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
