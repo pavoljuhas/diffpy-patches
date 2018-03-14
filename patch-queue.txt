@@ -11,11 +11,7 @@ DONE
 
 2017-04-15 01:01:25 5a79e033a diffpy.structure / REL: No need to explicitly exclude setup.cfg.
 2017-04-17 11:01:00 0e3be7483 diffpy.srfit / TST: exclude debug.py from codecov report.
-
--- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2017-04-20 15:14:56 99e2d4c56 diffpy.srfit / TST: use automated TestCase discovery.
-------------------------------------------------------------------------------
-
 2017-04-20 15:16:16 2f04db5ea diffpy.srfit / TST: support test selection in the debug script.
 
 -- SKIPPED in diffpy.pdfgetx -------------------------------------------------
@@ -24,9 +20,9 @@ DONE
 ------------------------------------------------------------------------------
 
 2017-06-21 18:24:12 2694c2746 diffpy.structure / Declare namespace package with pkgutil module.
+2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
 
 -- SKIPPED in diffpy.pdfgetx -------------------------------------------------
-2017-06-30 12:04:28 500f9d2c7 diffpy.structure / TST: avoid shadowing errors in test sources.
 2017-07-09 01:43:48 6b3305799 diffpy.srfit / DEV: use `conda render` to get full package name.
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
 ------------------------------------------------------------------------------
