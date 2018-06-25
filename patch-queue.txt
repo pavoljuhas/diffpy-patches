@@ -43,9 +43,10 @@ DONE
 2018-01-11 17:13:59 653ff6864 diffpy.structure / REL: exclude spurious sources from setuptools_scm
 2018-01-11 17:27:55 38f6cd392 diffpy.structure / REL: exclude gitarchive.cfg from package files
 2018-02-02 16:16:54 commit-date.patch patch / REL: use git commit date for version metadata
-2018-02-08 16:31:00 238299dcf pyobjcryst / TST: exclude skipped unit tests from coverage
 2018-02-21 14:23:29 56ee643e5 libdiffpy / REL: check actual HEAD instead of TRAVIS_COMMIT
 2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
 2018-04-03 18:03:54 ea69a4221 diffpy.srfit / DEV: travis - fix brew install of python, numpy
 
 TODO
+
+2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
