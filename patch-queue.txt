@@ -47,5 +47,6 @@ DONE
 2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
 2018-04-03 18:03:54 ea69a4221 diffpy.srfit / DEV: travis - fix brew install of python, numpy
 2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
+2018-08-01 22:40:48 909812377 diffpy.srfit / TST: include module name when matching test names
 
 TODO
