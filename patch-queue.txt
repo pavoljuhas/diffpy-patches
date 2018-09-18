@@ -49,3 +49,7 @@ DONE
 2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
 
 TODO
+
+2018-08-01 22:40:48 909812377 diffpy.srfit / TST: include module name when matching test names
+2018-08-02 11:05:25 7f4d2724c diffpy.srfit / DEV: travis - fix brew installation of numpy
+2018-08-02 12:08:51 8977bb7c2 diffpy.srfit / TST: enable warnings in our test script
