@@ -43,15 +43,17 @@ DONE
 2018-01-09 15:51:16 3cae9e269 diffpy.pdfgetx / ENH: fix version import in a pristine source tree
 2018-01-11 17:13:59 653ff6864 diffpy.structure / REL: exclude spurious sources from setuptools_scm
 2018-01-11 17:27:55 38f6cd392 diffpy.structure / REL: exclude gitarchive.cfg from package files
-
-TODO
-
 2018-02-02 16:16:54 commit-date.patch patch / REL: use git commit date for version metadata
 2018-02-21 14:23:29 56ee643e5 libdiffpy / REL: check actual HEAD instead of TRAVIS_COMMIT
 2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
+-- SKIP ----------------------------------------------------------------------
 2018-04-03 18:03:54 ea69a4221 diffpy.srfit / DEV: travis - fix brew install of python, numpy
+2018-08-02 11:05:25 7f4d2724c diffpy.srfit / DEV: travis - fix brew installation of numpy
+2018-09-18 14:18:26 562f3218a diffpy.utils / DEV: remove brew upgrade of numpy
+------------------------------------------------------------------------------
 2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
 2018-08-01 22:40:48 909812377 diffpy.srfit / TST: include module name when matching test names
-2018-08-02 11:05:25 7f4d2724c diffpy.srfit / DEV: travis - fix brew installation of numpy
 2018-08-02 12:08:51 8977bb7c2 diffpy.srfit / TST: enable warnings in our test script
-2018-09-18 14:18:26 562f3218a diffpy.utils / DEV: remove brew upgrade of numpy
+
+TODO
+
