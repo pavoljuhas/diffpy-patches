@@ -54,6 +54,11 @@ DONE
 2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
 2018-08-01 22:40:48 909812377 diffpy.srfit / TST: include module name when matching test names
 2018-08-02 12:08:51 8977bb7c2 diffpy.srfit / TST: enable warnings in our test script
+-- SKIP ----------------------------------------------------------------------
+2018-10-09 12:00:03 deb90a0bd diffpy.srreal / DEV: travis - remove brew installation of numpy
+------------------------------------------------------------------------------
+2018-10-11 18:24:14 01a159e78 diffpy.utils / DOC: fix download link for Anaconda Python
+2018-11-30 16:32:58 fe89c0053 diffpy.pdfgui / MAINT: normalize line ends in Windows `.bat` files
 
 TODO
 
