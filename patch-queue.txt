@@ -7,3 +7,9 @@ DONE
 2017-08-01 14:39:08 1917bc1e6 libdiffpy / STY: drop trailing `cd` slashes in travis.
 
 TODO
+
+2018-02-21 14:11:22 9a2038537 libdiffpy / REL: use git commit date for version metadata
+2018-02-21 14:23:29 56ee643e5 libdiffpy / REL: check actual HEAD instead of TRAVIS_COMMIT
+2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
+2018-10-11 18:31:19 9fbdce517 libdiffpy / DOC: fix download link for Anaconda Python
+
