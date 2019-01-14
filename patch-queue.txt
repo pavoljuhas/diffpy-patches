@@ -11,3 +11,6 @@ DONE
 2018-02-21 14:28:07 88ae1a8d3 libdiffpy / REL: use `base` for the default conda environment
 
 TODO
+
+2019-01-09 12:01:30 d055da7fe libobjcryst / CI: use Miniconda3 and Python 3.7 for travis build
+2019-01-10 11:21:37 2a1042fe9 libobjcryst / BLD: update to stock conda boost 1.67.0
