@@ -12,5 +12,8 @@ DONE
 
 TODO
 
+2018-10-11 18:31:19 9fbdce517 libdiffpy / DOC: fix download link for Anaconda Python
 2019-01-09 12:01:30 d055da7fe libobjcryst / CI: use Miniconda3 and Python 3.7 for travis build
 2019-01-10 11:21:37 2a1042fe9 libobjcryst / BLD: update to stock conda boost 1.67.0
+2019-01-10 11:42:36 e9fe29928 libobjcryst / CI: update download URL for Miniconda
+2019-01-14 16:17:19 6ba742d4f pyobjcryst / CI: drop `sudo` entry from .travis.yml
