@@ -14,6 +14,7 @@ DONE
 2019-01-10 11:21:37 2a1042fe9 libobjcryst / BLD: update to stock conda boost 1.67.0
 2019-01-10 11:42:36 e9fe29928 libobjcryst / CI: update download URL for Miniconda
 2019-01-14 16:17:19 6ba742d4f pyobjcryst / CI: drop `sudo` entry from .travis.yml
+2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
 
 TODO
 
