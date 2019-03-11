@@ -61,3 +61,4 @@ DONE
 
 TODO
 
+2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
