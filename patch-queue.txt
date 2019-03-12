@@ -49,9 +49,6 @@ DONE
 2018-04-05 18:49:31 61c4f0294 diffpy.srreal / TST: exclude skipped unit tests from coverage
 2018-08-01 22:40:48 909812377 diffpy.srfit / TST: include module name when matching test names
 2018-08-02 12:08:51 8977bb7c2 diffpy.srfit / TST: enable warnings in our test script
-
-TODO
-
 -- REPLACE IF NOT APPLIED ----------------------------------------------------
 2018-08-02 11:05:25 7f4d2724c diffpy.srfit / DEV: travis - fix brew installation of numpy
 2018-09-18 14:18:26 562f3218a diffpy.utils / DEV: remove brew upgrade of numpy
@@ -67,3 +64,6 @@ TODO
 2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
 2019-03-11 15:06:18 e156ad703 pyobjcryst / REL: add long_description to setup.py
 2019-03-11 15:09:53 04b9cece1 pyobjcryst / DOC: update URL for codecov badge
+
+TODO
+
