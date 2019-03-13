@@ -65,3 +65,5 @@ DONE
 
 TODO
 
+2019-03-11 15:06:18 e156ad703 pyobjcryst / REL: add long_description to setup.py
+2019-03-11 15:09:53 04b9cece1 pyobjcryst / DOC: update URL for codecov badge
