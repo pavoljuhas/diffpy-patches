@@ -62,3 +62,4 @@
 2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
 2019-03-11 15:06:18 e156ad703 pyobjcryst / REL: add long_description to setup.py
 2019-03-11 15:09:53 04b9cece1 pyobjcryst / DOC: update URL for codecov badge
+2019-03-13 12:00:00 xxxxxxxxx NOREPO / DOC: use UTF-8 n-dash in CHANGELOG titles
