@@ -57,14 +57,16 @@ DONE
 ------------------------------------------------------------------------------
 2018-10-11 18:24:14 01a159e78 diffpy.utils / DOC: fix download link for Anaconda Python
 2018-11-30 16:32:58 fe89c0053 diffpy.pdfgui / MAINT: normalize line ends in Windows `.bat` files
-
-TODO
-
+-- SKIPPED in diffpy.pdfgetx -------------------------------------------------
 2018-12-11 20:16:35 651c84ac9 diffpy.srfit / REL: make setup.py compatible with Python 2 and 3.
 2018-12-12 11:50:15 5abcd373c diffpy.srfit / CI: switch to Miniconda3 when testing on travis
 2019-01-10 11:42:36 e9fe29928 libobjcryst / CI: update download URL for Miniconda
 2019-01-14 16:17:19 6ba742d4f pyobjcryst / CI: drop `sudo` entry from .travis.yml
 2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
-2019-03-11 15:06:18 e156ad703 pyobjcryst / REL: add long_description to setup.py
 2019-03-11 15:09:53 04b9cece1 pyobjcryst / DOC: update URL for codecov badge
+------------------------------------------------------------------------------
+2019-03-11 15:06:18 e156ad703 pyobjcryst / REL: add long_description to setup.py
 2019-03-13 12:00:00 xxxxxxxxx NOREPO / DOC: use UTF-8 n-dash in CHANGELOG titles
+
+TODO
+
