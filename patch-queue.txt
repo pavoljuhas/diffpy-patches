@@ -72,3 +72,5 @@ DONE
 
 TODO
 
+2019-03-13 12:00:00 xxxxxxxxx NOREPO / DOC: use UTF-8 n-dash in CHANGELOG titles
+2019-06-18 19:05:03 71266168e diffpy.structure / CI: fix failing codecov reports
