@@ -8,3 +8,4 @@
 2019-01-14 16:17:19 6ba742d4f pyobjcryst / CI: drop `sudo` entry from .travis.yml
 2019-01-24 17:18:18 78bbca4e2 libdiffpy / CI: install conda-verify per conda-build suggestion
 2019-03-13 12:00:00 xxxxxxxxx NOREPO / DOC: use UTF-8 n-dash in CHANGELOG titles
+2019-06-27 18:01:31 3150ee827 diffpy.structure / BLD: fix compilation issues in sphinx-2.0
